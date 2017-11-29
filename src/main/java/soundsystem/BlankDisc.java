@@ -23,7 +23,7 @@ public class BlankDisc implements CompactDisc {
 
     }
 
-    public BlankDisc(String title, String artist, List<String> tracks){
+    public BlankDisc(String title, String artist){
         this.title = title;
         this.artist = artist;
         this.tracks = tracks;
